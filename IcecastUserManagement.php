@@ -103,4 +103,3 @@ class IcecastUserManagement implements IcecastUMInterface {
         file_put_contents($this->file, $this->xml->saveXML());
     }
 }
-?>

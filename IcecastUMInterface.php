@@ -22,4 +22,3 @@ public function changeMountPoint($old_mount, $new_mount);
 public function setAdminWeb($user, $password);
 
 }
-?>
