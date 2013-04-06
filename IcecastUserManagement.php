@@ -7,7 +7,7 @@
 
 require_once('./Icecast_UM_Interface.php');
 
-class Icecast_User_Management implements Icecast_UM_Interface {
+class IcecastUserManagement implements Icecast_UM_Interface {
 
     private $xml;
     private $file;

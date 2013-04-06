@@ -4,7 +4,7 @@
 // April 2013
 // by ->(xesco)<-
 
-Interface Icecast_UM_Interface {
+Interface IcecastUMInterface {
 
 // add a new mountpoint
 public function addMount($mount, $password);
