@@ -1,0 +1,592 @@
+SimpleXMLElement Object
+(
+    [limits] => SimpleXMLElement Object
+        (
+            [clients] => 100
+            [sources] => 100
+            [threadpool] => 10
+            [queue-size] => 1638400
+            [client-timeout] => 30
+            [header-timeout] => 15
+            [source-timeout] => 10
+            [burst-on-connect] => 0
+            [burst-size] => 128
+        )
+
+    [authentication] => SimpleXMLElement Object
+        (
+            [admin-user] => streamingdjs
+            [admin-password] => dj489smn2011.
+        )
+
+    [location] => Barcelona (Catalunya)
+    [hostname] => http://icecast.streamingdjs.com
+    [name] => StreamingDJs
+    [admin] => xescoo@gmail.com
+    [listen-socket] => SimpleXMLElement Object
+        (
+            [port] => 2011
+            [comment] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+    [mount] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [mount-name] => /test.ogg
+                    [password] => test
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/mp3
+                    [subtype] => mp3
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [mount-name] => /txepe.ogg
+                    [password] => djsmn2011
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_6.ogg
+                    [password] => 1679091c
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [3] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_8.ogg
+                    [password] => c9f0f895
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [4] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_9.ogg
+                    [password] => 45c48cce
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [5] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_12.ogg
+                    [password] => c20ad4d7
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [6] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_13.ogg
+                    [password] => c51ce410
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [7] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_15.ogg
+                    [password] => 9bf31c7f
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [8] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_23.ogg
+                    [password] => 37693cfc
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [9] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_26.ogg
+                    [password] => 4e732ced
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [10] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_39.ogg
+                    [password] => d67d8ab4
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [11] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_41.ogg
+                    [password] => 3416a75f
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [12] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_42.ogg
+                    [password] => a1d0c6e8
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [13] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_45.ogg
+                    [password] => 6c8349cc
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [14] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_46.ogg
+                    [password] => d9d4f495
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [15] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_47.ogg
+                    [password] => 67c6a1e7
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [16] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_48.ogg
+                    [password] => 642e92ef
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [17] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_56.ogg
+                    [password] => 9f61408e
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [18] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_60.ogg
+                    [password] => 072b030b
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [19] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_61.ogg
+                    [password] => 7f39f831
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [20] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_64.ogg
+                    [password] => ea5d2f1c
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [21] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_90.ogg
+                    [password] => 8613985e
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [22] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_112.ogg
+                    [password] => 7f6ffaa6
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [23] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_118.ogg
+                    [password] => 5ef05993
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [24] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_131.ogg
+                    [password] => 1afa34a7
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [25] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_80.ogg
+                    [password] => f033ab37
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [26] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_84.ogg
+                    [password] => 68d30a95
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [27] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_121.ogg
+                    [password] => 4c56ff4c
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [28] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_122.ogg
+                    [password] => a0a080f4
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [29] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_127.ogg
+                    [password] => ec5decca
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [30] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_132.ogg
+                    [password] => 65ded535
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+            [31] => SimpleXMLElement Object
+                (
+                    [mount-name] => /sdj_stream_133.ogg
+                    [password] => 9fc3d715
+                    [max-listeners] => 5
+                    [charset] => ISO8859-15
+                    [public] => 0
+                    [bitrate] => 160
+                    [type] => application/ogg
+                    [subtype] => vorbis
+                    [hidden] => 1
+                    [burst-on-connect] => 0
+                )
+
+        )
+
+    [comment] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+    [fileserve] => 1
+    [paths] => SimpleXMLElement Object
+        (
+            [comment] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [4] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [5] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [logdir] => /var/log/icecast2
+            [webroot] => /usr/share/icecast2/web
+            [adminroot] => /usr/share/icecast2/admin
+            [pidfile] => /usr/share/icecast2/icecast.pid
+            [alias] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [source] => /
+                            [dest] => /status.xsl
+                        )
+
+                )
+
+        )
+
+    [logging] => SimpleXMLElement Object
+        (
+            [accesslog] => access.log
+            [errorlog] => error.log
+            [comment] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [loglevel] => 4
+            [logsize] => 10000
+            [logarchive] => 1
+        )
+
+    [security] => SimpleXMLElement Object
+        (
+            [chroot] => 0
+            [comment] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
