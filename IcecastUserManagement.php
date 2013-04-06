@@ -5,9 +5,9 @@
 // April 2013
 // by ->(xesco)<-
 
-require_once('./Icecast_UM_Interface.php');
+require_once('./IcecastUMInterface.php');
 
-class IcecastUserManagement implements Icecast_UM_Interface {
+class IcecastUserManagement implements IcecastUMInterface {
 
     private $xml;
     private $file;
